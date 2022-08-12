@@ -12,7 +12,7 @@ Your task is to create a command-line based script in any programming language o
 
 ### A sample of a running script in a terminal with the input of RW15RW1:
 > Input --> RW15RW1 <br/>
-> Output -->X: 15 Y: -1 Direction: South <br/>
+> Output --> X: 15 Y: -1 Direction: South <br/>
 
 Feel free to use the internet to look up any coding references, but please do not ask anyone else for help. We want to see how you code.
 
